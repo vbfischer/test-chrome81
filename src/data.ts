@@ -530,7 +530,7 @@ const data = [
   {
     id: 45,
     analyte: "T23311",
-    date1: 18.96,
+    date1: 18.93,
     date2: 48.12,
     date3: 37.71,
     date4: 33.1,
